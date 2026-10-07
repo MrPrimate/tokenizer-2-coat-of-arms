@@ -1,0 +1,37 @@
+{
+  "id": "tokenizer-2-coat-of-arms",
+  "title": "Tokenizer 2 - Coat of Arms",
+  "description": "A coat of arms generator for Tokenizer 2, inspired by Pendragon.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "MrPrimate",
+      "email": "jack@mrprimate.co.uk",
+      "url": "https://mrprimate.co.uk"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "esmodules": ["scripts/index.js"],
+  "styles": ["styles/coat-of-arms.css"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "relationships": {
+    "requires": [{ "id": "tokenizer-2", "type": "module" }],
+    "recommends": [
+      {
+        "id": "Pendragon",
+        "type": "system",
+        "reason": "On Pendragon character and NPC sheets the generator opens from the coat of arms and saves the arms and blazon to the sheet."
+      }
+    ]
+  },
+  "flags": {}
+}

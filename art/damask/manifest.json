@@ -1,0 +1,48 @@
+{
+ "files": {
+  "scrolls.svg": {
+   "title": "Champ de sable diapré.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Champ_de_sable_diapr%C3%A9.svg",
+   "author": "Bibar",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "made": "one repeat of the dotted scrolls"
+  },
+  "lattice.svg": {
+   "title": "D'argent diapré.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:D%27argent_diapr%C3%A9.svg",
+   "author": "Bibar",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "made": "the file's own repeating tile, in black"
+  },
+  "brocade.png": {
+   "title": "Brocade 3.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Brocade_3.png",
+   "author": "Wikimedia Commons user Laverock~commonswiki",
+   "licence": "Public domain",
+   "licenceUrl": null,
+   "made": "a Byzantine brocade from the Encyclopaedia Britannica (1911): one repeat of the scan, made seamless, cleaned, reversed and doubled in size"
+  }
+ },
+ "patterns": [
+  {
+   "id": "scrolls",
+   "file": "scrolls.svg",
+   "units": 36,
+   "strength": 1
+  },
+  {
+   "id": "lattice",
+   "file": "lattice.svg",
+   "units": 17,
+   "strength": 1
+  },
+  {
+   "id": "brocade",
+   "file": "brocade.png",
+   "units": 46,
+   "strength": 0.55
+  }
+ ]
+}

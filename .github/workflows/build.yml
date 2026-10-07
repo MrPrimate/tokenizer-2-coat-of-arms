@@ -1,0 +1,64 @@
+# Releases the module when package.json changes on main (bump the version
+# there). Written for this folder as the root of its own repository: GitHub
+# does not run it while it sits under plugins/ in Tokenizer 2.
+name: Coat of Arms Build
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'package.json'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - uses: actions/checkout@v6
+    - name: Use Node.js 24.x
+      uses: actions/setup-node@v6
+      with:
+        node-version: 24.x
+        cache: npm
+    - name: Get Version
+      id: get-version
+      run: echo "release_version=$(node -p "require('./package.json').version")" >> $GITHUB_OUTPUT
+    - run: npm ci
+    - name: Package
+      run: npm run package           # package/module.json and package/tokenizer-2-coat-of-arms.zip
+    - name: Create Release
+      id: create_versioned_release
+      uses: ncipollo/release-action@v1
+      with:
+        allowUpdates: false
+        name: Release ${{ steps.get-version.outputs.release_version }}
+        draft: false
+        prerelease: false
+        token: ${{ secrets.GITHUB_TOKEN }}
+        artifacts: './package/module.json,./package/tokenizer-2-coat-of-arms.zip'
+        tag: ${{ steps.get-version.outputs.release_version }}
+    - name: Create Latest Release
+      id: create_latest_release
+      uses: ncipollo/release-action@v1
+      if: endsWith(github.ref, 'main') # only the main branch moves "latest", which the manifest URL points at
+      with:
+        allowUpdates: true
+        name: Latest
+        draft: false
+        prerelease: false
+        token: ${{ secrets.GITHUB_TOKEN }}
+        artifacts: './package/module.json,./package/tokenizer-2-coat-of-arms.zip'
+        tag: latest
+
+    - name: FoundryVTT AutoPublish
+      uses: fjogeleit/http-request-action@v1
+      continue-on-error: true # needs the FOUNDRY_KEY secret and the package registered on foundryvtt.com
+      with:
+          url: 'https://foundryvtt.com/_api/packages/release_version/'
+          method: 'POST'
+          customHeaders: '{"Content-Type": "application/json", "Authorization" : "${{ secrets.FOUNDRY_KEY }}"}'
+          data: '{"dry_run": false, "id" : "tokenizer-2-coat-of-arms", "release": {"version" :  "${{ steps.get-version.outputs.release_version }}", "manifest": "https://github.com/${{ github.repository }}/releases/download/${{ steps.get-version.outputs.release_version }}/module.json", "notes" : "https://github.com/${{ github.repository }}/releases/tag/${{ steps.get-version.outputs.release_version }}", "compatibility" : {"minimum": "13", "verified": "14", "maximum": ""} } }'

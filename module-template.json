@@ -1,0 +1,38 @@
+{
+  "id": "tokenizer-2-coat-of-arms",
+  "title": "Tokenizer 2 - Coat of Arms",
+  "description": "A coat of arms generator for Tokenizer 2, inspired by Pendragon.",
+  "version": "VERSION",
+  "download": "https://github.com/REPOSITORY/releases/download/VERSION/tokenizer-2-coat-of-arms.zip",
+  "manifest": "https://github.com/REPOSITORY/releases/download/latest/module.json",
+  "authors": [
+    {
+      "name": "MrPrimate",
+      "email": "jack@mrprimate.co.uk",
+      "url": "https://mrprimate.co.uk"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "esmodules": ["dist/main.js"],
+  "styles": ["styles/coat-of-arms.css"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "relationships": {
+    "requires": [{
+      "id": "tokenizer-2",
+      "type": "module",
+      "compatibility": {
+        "minimum": "2.1.0"
+      }
+    }]
+  },
+  "flags": {}
+}

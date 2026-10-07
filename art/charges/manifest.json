@@ -1,0 +1,1722 @@
+{
+ "pack": "charges",
+ "files": {
+  "meuble-heraldique-lion.svg": {
+   "title": "Meuble héraldique Lion.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Lion.svg",
+   "author": "Wikimedia Commons user Syryatsu",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-lion-leoparde.svg": {
+   "title": "Meuble héraldique Lion léopardé.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Lion_l%C3%A9opard%C3%A9.svg",
+   "author": "Syryatsu",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "lion-statant-regardant.svg": {
+   "title": "Lion Statant Regardant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Lion_Statant_Regardant.svg",
+   "author": "Jpgibert",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "lion-couchant-guardant.svg": {
+   "title": "Lion Couchant Guardant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Lion_Couchant_Guardant.svg",
+   "author": "Jpgibert",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "meuble-heraldique-tete-lion.svg": {
+   "title": "Meuble héraldique Tête (lion).svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_T%C3%AAte_(lion).svg",
+   "author": "Wikimedia Commons user Syryatsu",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-leopard.svg": {
+   "title": "Meuble héraldique Léopard.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_L%C3%A9opard.svg",
+   "author": "Wikimedia Commons user Syryatsu",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-tete-leopard.svg": {
+   "title": "Meuble héraldique Tête (léopard).svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_T%C3%AAte_(l%C3%A9opard).svg",
+   "author": "Syryatsu",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-cerf-passant.svg": {
+   "title": "Meuble héraldique Cerf passant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Cerf_passant.svg",
+   "author": "Syryatsu",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-cerf-rampant.svg": {
+   "title": "Meuble héraldique Cerf rampant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Cerf_rampant.svg",
+   "author": "Jean-Paul GIBERT",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "stag-s-head-erased-heraldry.svg": {
+   "title": "Stag's head erased (heraldry).svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Stag%27s_head_erased_(heraldry).svg",
+   "author": "Wikimedia Commons user Celtus~commonswiki",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-loup-ravissant.svg": {
+   "title": "Meuble héraldique Loup ravissant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Loup_ravissant.svg",
+   "author": "Syryatsu",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-loup-passant.svg": {
+   "title": "Meuble héraldique Loup passant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Loup_passant.svg",
+   "author": "Syryatsu",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "bear-or-supporter.svg": {
+   "title": "Bear or supporter.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bear_or_supporter.svg",
+   "author": "Tom Lemmens",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "coa-illustration-elements-animal-bear-passant.svg": {
+   "title": "Coa Illustration Elements Animal Bear Passant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Bear_Passant.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-rencontre-loup.svg": {
+   "title": "Meuble rencontre loup.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_rencontre_loup.svg",
+   "author": "Wikimedia Commons user Manassas~commonswiki",
+   "licence": "CC BY 2.5",
+   "licenceUrl": "https://creativecommons.org/licenses/by/2.5"
+  },
+  "coa-illustration-elements-animal-boar-passant.svg": {
+   "title": "Coa Illustration Elements Animal Boar Passant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Boar_Passant.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-boar-rampant.svg": {
+   "title": "Coa Illustration Elements Animal Boar Rampant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Boar_Rampant.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-boar-s-head-erased.svg": {
+   "title": "Coa Illustration Elements Animal Boar's Head Erased.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Boar%27s_Head_Erased.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-fox-passant.svg": {
+   "title": "Coa Illustration Elements Animal Fox Passant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Fox_Passant.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-renard-flamboyant.svg": {
+   "title": "Meuble héraldique Renard flamboyant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Renard_flamboyant.svg",
+   "author": "Syryatsu",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "coa-illustration-elements-animal-greyhound-passant.svg": {
+   "title": "Coa Illustration Elements Animal Greyhound Passant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Greyhound_Passant.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-levrier-rampant.svg": {
+   "title": "Meuble héraldique Lévrier rampant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_L%C3%A9vrier_rampant.svg",
+   "author": "Jpgibert",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "coa-illustration-elements-animal-talbot-passant.svg": {
+   "title": "Coa Illustration Elements Animal Talbot Passant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Talbot_Passant.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-sea-dog.svg": {
+   "title": "Coa Illustration Elements Animal Sea Dog.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Sea_Dog.svg",
+   "author": "By Arthur Charles Fox-Davies, 1904. Illustrations by H. G. Strohl, G. W. Eve, Graham Johnston, C. W. Sherborn, R. E., J. Forbes Nixon, G. Scruby, J. Vinycomb, M.R.I.A., and “Miss Helard” (a pseudonym for his wife, Mary Ellen Blanche Crookes).",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-chien-braque-couche.svg": {
+   "title": "Meuble héraldique Chien braque couché.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Chien_braque_couch%C3%A9.svg",
+   "author": "Jpgibert",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "meuble-heraldique-chevre-saillante.svg": {
+   "title": "Meuble heraldique chevre saillante.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_heraldique_chevre_saillante.svg",
+   "author": "Olves",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-goat-passant.svg": {
+   "title": "Coa Illustration Elements Animal Goat Passant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Goat_Passant.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-tete-de-bouc.svg": {
+   "title": "Meuble Héraldique Tête de Bouc.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_H%C3%A9raldique_T%C3%AAte_de_Bouc.svg",
+   "author": "Wikimedia Commons user Jpgibert",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "meuble-heraldique-chevre-arretee.svg": {
+   "title": "Meuble héraldique chèvre arrêtée.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_ch%C3%A8vre_arr%C3%AAt%C3%A9e.svg",
+   "author": "Jean-Paul GIBERT",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "coa-illustration-elements-animal-ram-statant.svg": {
+   "title": "Coa Illustration Elements Animal Ram Statant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Ram_Statant.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-ram-s-head-cabossed.svg": {
+   "title": "Coa Illustration Elements Animal Ram's Head Cabossed.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Ram%27s_Head_Cabossed.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "ram-tenne.svg": {
+   "title": "Ram tenne.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ram_tenne.svg",
+   "author": "https://commons.wikimedia.org/wiki/User:Felipe_Fidelis_Tobias",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "coa-illustration-elements-animal-ewe-passant.svg": {
+   "title": "Coa Illustration Elements Animal Ewe Passant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Ewe_Passant.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-bull-passant.svg": {
+   "title": "Coa Illustration Elements Animal Bull Passant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Bull_Passant.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-bull-s-head-caboshed.svg": {
+   "title": "Coa Illustration Elements Animal Bull's Head Caboshed.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Bull%27s_Head_Caboshed.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-cheval-passant1.svg": {
+   "title": "Meuble héraldique Cheval passant1.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Cheval_passant1.svg",
+   "author": "Syryatsu",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "meuble-heraldique-cheval-cabre.svg": {
+   "title": "Meuble héraldique Cheval cabré.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Cheval_cabr%C3%A9.svg",
+   "author": "Syryatsu",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-cheval-arrete.svg": {
+   "title": "Meuble héraldique Cheval arrêté.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Cheval_arr%C3%AAt%C3%A9.svg",
+   "author": "Syryatsu",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "horse-head.svg": {
+   "title": "Horse head.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Horse_head.svg",
+   "author": "Iurie Caminschi (drawing); myself (vectorization)",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-cameleopard-statant.svg": {
+   "title": "Coa Illustration Elements Animal Cameleopard Statant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Cameleopard_Statant.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-licorne-cabree.svg": {
+   "title": "Meuble héraldique Licorne cabrée.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Licorne_cabr%C3%A9e.svg",
+   "author": "Syryatsu",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-tete-et-col-de-licorne.svg": {
+   "title": "Meuble héraldique tête et col de licorne.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_t%C3%AAte_et_col_de_licorne.svg",
+   "author": "Jpgibert",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "coa-illustration-elements-animal-griffin-1.svg": {
+   "title": "Coa Illustration Elements Animal Griffin 1.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Griffin_1.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-griffin-passant.svg": {
+   "title": "Coa Illustration Elements Animal Griffin Passant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Griffin_Passant.svg",
+   "author": "Arthur Charles Fox-Davies and Illustrated by Graham Johnston",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "griffin-s-head-erased-heraldry.svg": {
+   "title": "Griffin's head erased (heraldry).svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Griffin%27s_head_erased_(heraldry).svg",
+   "author": "Unknown, the book this image was taken from is: A complete guide to heraldry, by Arthur Charles Fox-Davies, published in 1909. The author died in 1928.",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-griffon-couche.svg": {
+   "title": "Meuble héraldique griffon couché.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_griffon_couch%C3%A9.svg",
+   "author": "Jean-Paul GIBERT",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "coa-illustration-elements-animal-enfield-statant.svg": {
+   "title": "Coa Illustration Elements Animal Enfield Statant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Enfield_Statant.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-eagle-displayed-with-wings-inverted.svg": {
+   "title": "Coa Illustration Elements Animal Eagle Displayed with Wings Inverted.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Eagle_Displayed_with_Wings_Inverted.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-falcoln-belled.svg": {
+   "title": "Coa Illustration Elements Animal Falcoln Belled.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Falcoln_Belled.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-owl-close-guardant.svg": {
+   "title": "Coa Illustration Elements Animal Owl Close Guardant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Owl_Close_Guardant.svg",
+   "author": "Arthur Charles Fox-Davies and Illustrated by Graham Johnston",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-heron.svg": {
+   "title": "Coa Illustration Elements Animal Heron.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Heron.svg",
+   "author": "Arthur Charles Fox-Davies and Illustrated by Graham Johnston",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-grue.svg": {
+   "title": "Meuble héraldique grue.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_grue.svg",
+   "author": "Wikimedia Commons user Leovilok",
+   "licence": "CC BY 1.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/1.0"
+  },
+  "martlet-with-detailed-lines.svg": {
+   "title": "Martlet with detailed lines.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Martlet_with_detailed_lines.svg",
+   "author": "Oxenhillshaw",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "meuble-coq.svg": {
+   "title": "Meuble coq.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_coq.svg",
+   "author": "Wikimedia Commons user Semicolo",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-cygne-essorant.svg": {
+   "title": "Meuble héraldique cygne-essorant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_cygne-essorant.svg",
+   "author": "Wikimedia Commons user Jacques63",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "coa-illustration-elements-animal-raven.svg": {
+   "title": "Coa Illustration Elements Animal Raven.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Raven.svg",
+   "author": "Arthur Charles Fox-Davies and Illustrated by Graham Johnston",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-colombe.svg": {
+   "title": "Meuble héraldique Colombe.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Colombe.svg",
+   "author": "Syryatsu",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-dragon-segreant.svg": {
+   "title": "Coa Illustration Elements Animal Dragon Segreant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Dragon_Segreant.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-phoenix.svg": {
+   "title": "Coa Illustration Elements Phoenix.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Phoenix.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "salamander-crowned.svg": {
+   "title": "Salamander crowned.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Salamander_crowned.svg",
+   "author": "Wikimedia Commons user Ilzolende",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-wyvern-rampant.svg": {
+   "title": "Coa Illustration Elements Animal Wyvern Rampant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Wyvern_Rampant.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-cockatrice-displayed.svg": {
+   "title": "Coa Illustration Elements Animal Cockatrice Displayed.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Cockatrice_Displayed.svg",
+   "author": "Printed by John Guillim in England in 1611. Illustrator unknown.",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-centaur-passant.svg": {
+   "title": "Coa Illustration Elements Centaur Passant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Centaur_Passant.svg",
+   "author": "Jérôme de Bara in Lyon",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "heraldry-fish-205.svg": {
+   "title": "Heraldry Fish 205.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Heraldry_Fish_205.svg",
+   "author": "Mrmw",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "coa-illustration-elements-animal-pegasus-passant.svg": {
+   "title": "Coa Illustration Elements Animal Pegasus Passant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Pegasus_Passant.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-mermaid.svg": {
+   "title": "Coa Illustration Elements Mermaid.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Mermaid.svg",
+   "author": "Written and illustrated by John Vinycomb",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-manticore-passant-guardant.svg": {
+   "title": "Coa Illustration Elements Manticore Passant Guardant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Manticore_Passant_Guardant.svg",
+   "author": "Written and illustrated by John Vinycomb",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-harpy-rising-wings-displayed.svg": {
+   "title": "Coa Illustration Elements Harpy Rising Wings Displayed.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Harpy_Rising_Wings_Displayed.svg",
+   "author": "Written and illustrated by John Vinycomb (1833-1928 biography )",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "bee-heraldry.svg": {
+   "title": "Bee (heraldry).svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bee_(heraldry).svg",
+   "author": "F l a n k e r",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "heraldry-fish-004.svg": {
+   "title": "Heraldry Fish 004.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Heraldry_Fish_004.svg",
+   "author": "Mrmw",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "coa-illustration-elements-animal-dolphin-naiant.svg": {
+   "title": "Coa Illustration Elements Animal Dolphin Naiant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Dolphin_Naiant.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-serpent-nowed.svg": {
+   "title": "Coa Illustration Elements Animal Serpent Nowed.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Serpent_Nowed.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-eel.svg": {
+   "title": "Coa Illustration Elements Animal Eel.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Eel.svg",
+   "author": "Printed by John Guillim",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-animal-escallop.svg": {
+   "title": "Coa Illustration Elements Animal Escallop.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Animal_Escallop.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-thunderbolt.svg": {
+   "title": "Coa Illustration Elements Thunderbolt.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Thunderbolt.svg",
+   "author": "Written and illustrated by Jérôme de Bara in Lyon",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-arms-lance.svg": {
+   "title": "Coa Illustration Elements Arms Lance.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Arms_Lance.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-arms-sword-v2.svg": {
+   "title": "Coa Illustration Elements Arms Sword v2.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Arms_Sword_v2.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-tool-hammer-v6.svg": {
+   "title": "Coa Illustration Elements Tool Hammer v6.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Tool_Hammer_v6.svg",
+   "author": "Arthur Charles Fox-Davies and Illustrated by Graham Johnston",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-battle-axe.svg": {
+   "title": "Coa Illustration Elements Battle-Axe.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Battle-Axe.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-arms-flanged-mace.svg": {
+   "title": "Coa Illustration Elements Arms Flanged Mace.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Arms_Flanged_Mace.svg",
+   "author": "James Robinson Planché",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-fleau-d-armes.svg": {
+   "title": "Meuble héraldique Fléau d'armes.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Fl%C3%A9au_d%27armes.svg",
+   "author": "Jpgibert",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "coa-illustration-elements-arms-spiked-mace.svg": {
+   "title": "Coa Illustration Elements Arms Spiked Mace.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Arms_Spiked_Mace.svg",
+   "author": "RootOfAllLight",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-hunting-horn.svg": {
+   "title": "Coa Illustration Elements Hunting Horn.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Hunting_Horn.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-roue-a-8-rais.svg": {
+   "title": "Meuble héraldique Roue à 8 rais.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Roue_%C3%A0_8_rais.svg",
+   "author": "Jpgibert",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "coa-illustration-elements-horseshoe.svg": {
+   "title": "Coa Illustration Elements Horseshoe.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Horseshoe.svg",
+   "author": "John Guillim",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "peasants-party-electoral-symbol-the-sickle-1919-1926.svg": {
+   "title": "Peasants' Party electoral symbol - the Sickle (1919-1926).svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Peasants%27_Party_electoral_symbol_-_the_Sickle_(1919-1926).svg",
+   "author": "Cdrei",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "coa-illustration-elements-tool-spade-1.svg": {
+   "title": "Coa Illustration Elements Tool Spade 1.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Tool_Spade_1.svg",
+   "author": "Written and illustrated by Johann Siebmacher in Germany in 1605",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "baby-doll-key.svg": {
+   "title": "Baby Doll key.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Baby_Doll_key.svg",
+   "author": "Baby Doll employee or contractor",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "heraldic-charge-scales-balanced.svg": {
+   "title": "Heraldic-Charge Scales-Balanced.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Heraldic-Charge_Scales-Balanced.svg",
+   "author": "Korfi2Go",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "heraldic-maunch.svg": {
+   "title": "Heraldic maunch.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Heraldic_maunch.svg",
+   "author": "Alekjds",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "coa-illustration-elements-literacy-book-open.svg": {
+   "title": "Coa Illustration Elements Literacy Book Open.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Literacy_Book_Open.svg",
+   "author": "Printed by John Guillim in England in 1611. Illustrator unknown.",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-heaume-1.svg": {
+   "title": "Meuble héraldique heaume 1.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_heaume_1.svg",
+   "author": "Thom.Lanaud",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "crown-smpl.svg": {
+   "title": "Crown smpl.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Crown_smpl.svg",
+   "author": "ICS241102.jpg : US Federal Government derivative work: Anka Friedrich ( talk )",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coupe-antique.svg": {
+   "title": "Coupe antique.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coupe_antique.svg",
+   "author": "Wikimedia Commons user Jacques63",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "gauntlet-gray-flat.svg": {
+   "title": "Gauntlet Gray Flat.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Gauntlet_Gray_Flat.svg",
+   "author": "痛",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "coa-illustration-elements-bodypart-hand-couped.svg": {
+   "title": "Coa Illustration Elements Bodypart Hand Couped.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Bodypart_Hand_Couped.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-bodypart-arm-couped-with-fingers-extended.svg": {
+   "title": "Coa Illustration Elements Bodypart Arm Couped with Fingers Extended.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Bodypart_Arm_Couped_with_Fingers_Extended.svg",
+   "author": "Wikimedia Commons user RootOfAllLight",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-saracen-s-head-affronty-couped.svg": {
+   "title": "Coa Illustration Elements Saracen's Head Affronty Couped.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Saracen%27s_Head_Affronty_Couped.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-bodypart-skull.svg": {
+   "title": "Coa Illustration Elements Bodypart Skull.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Bodypart_Skull.svg",
+   "author": "Illustrators unknown",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-anchor.svg": {
+   "title": "Coa Illustration Elements Anchor.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Anchor.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-lymphad-with-oars-shipped.svg": {
+   "title": "Coa Illustration Elements Lymphad with Oars Shipped.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Lymphad_with_Oars_Shipped.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-tool-bell.svg": {
+   "title": "Coa Illustration Elements Tool Bell.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Tool_Bell.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-montagnes-a-trois-coupeaux.svg": {
+   "title": "Meuble héraldique Montagnes à trois coupeaux.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Montagnes_%C3%A0_trois_coupeaux.svg",
+   "author": "Jpgibert",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "belarus-knight.svg": {
+   "title": "Belarus knight.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Belarus_knight.svg",
+   "author": "Евгений Кулик, Владимир Круковский",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "wildeman.svg": {
+   "title": "Wildeman.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Wildeman.svg",
+   "author": "Wikimedia Commons user Tom-L",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "meuble-heraldique-saint-jean-baptiste.svg": {
+   "title": "Meuble héraldique saint-jean-baptiste.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_saint-jean-baptiste.svg",
+   "author": "Wikimedia Commons user Jacques63",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "ange-tenant.svg": {
+   "title": "Ange tenant.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ange_tenant.svg",
+   "author": "Wikimedia Commons user Jacques63",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "coa-illustration-crucifix.svg": {
+   "title": "Coa Illustration Crucifix.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Crucifix.svg",
+   "author": "Jérôme de Bara",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "christmas-star-or-comet.svg": {
+   "title": "Christmas star or comet.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Christmas_star_or_comet.svg",
+   "author": "Eugenio Hansen, OFS",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-planet-sun-in-his-splendor.svg": {
+   "title": "Coa Illustration Elements Planet Sun in his Splendor.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Planet_Sun_in_his_Splendor.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-planet-moon-in-her-plenitude.svg": {
+   "title": "Coa Illustration Elements Planet Moon in her Plenitude.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Planet_Moon_in_her_Plenitude.svg",
+   "author": "Written and illustrated by Jérôme de Bara in Lyon",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-plant-rose.svg": {
+   "title": "Coa Illustration Elements Plant Rose.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Plant_Rose.svg",
+   "author": "Arthur Charles Fox-Davies and Illustrated by Graham Johnston",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-plant-thistle.svg": {
+   "title": "Coa Illustration Elements Plant Thistle.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Plant_Thistle.svg",
+   "author": "Arthur Charles Fox-Davies http://heraldicart.org/fleur-de-lys/",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-plant-oak-tree-fructed-and-eradicated.svg": {
+   "title": "Coa Illustration Elements Plant Oak Tree Fructed and Eradicated.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Plant_Oak_Tree_Fructed_and_Eradicated.svg",
+   "author": "Arthur Charles Fox-Davies http://heraldicart.org/a-complete-guide-to-heraldry/",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-plant-acorn-1.svg": {
+   "title": "Coa Illustration Elements Plant Acorn 1.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Plant_Acorn_1.svg",
+   "author": "Arthur Charles Fox-Davies",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-apple.svg": {
+   "title": "Coa Illustration Apple.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Apple.svg",
+   "author": "Wikimedia Commons user RootOfAllLight",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "coa-illustration-elements-plant-garb-of-wheat.svg": {
+   "title": "Coa Illustration Elements Plant Garb of Wheat.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Plant_Garb_of_Wheat.svg",
+   "author": "Arthur Charles Fox-Davies https://heraldicart.org/fleur-de-lys/",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-fleur-de-lis.svg": {
+   "title": "Meuble héraldique Fleur de lis.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Fleur_de_lis.svg",
+   "author": "Wikimedia Commons user Syryatsu",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "simple-heraldic-castle.svg": {
+   "title": "Simple heraldic castle.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Simple_heraldic_castle.svg",
+   "author": "Gb89.2",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "meuble-heraldique-tour-donjonee-3-pieces.svg": {
+   "title": "Meuble héraldique tour donjonée 3 pièces.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_tour_donjon%C3%A9e_3_pi%C3%A8ces.svg",
+   "author": "Wikimedia Commons user Jacques63",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "coa-illustration-elements-building-church.svg": {
+   "title": "Coa Illustration Elements Building Church.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Building_Church.svg",
+   "author": "Written and illustrated by Jérôme de Bara in Lyon",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-tour-et-avant-mur.svg": {
+   "title": "Meuble héraldique Tour et avant-mur.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Tour_et_avant-mur.svg",
+   "author": "Jean-Paul GIBERT",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "coa-illustration-elements-merman-or-triton.svg": {
+   "title": "Coa Illustration Elements Merman or Triton.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Merman_or_Triton.svg",
+   "author": "Written and illustrated by Jérôme de Bara in Lyon",
+   "licence": "Public domain",
+   "licenceUrl": null
+  },
+  "meuble-heraldique-marie-et-jesus.svg": {
+   "title": "Meuble héraldique Marie et Jésus.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Marie_et_J%C3%A9sus.svg",
+   "author": "Jpgibert",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0"
+  }
+ },
+ "entries": [
+  {
+   "charge": "lion",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-lion.svg"
+  },
+  {
+   "charge": "lion",
+   "attitude": "rampant",
+   "head": false,
+   "file": "meuble-heraldique-lion.svg"
+  },
+  {
+   "charge": "lion",
+   "attitude": "passant",
+   "head": false,
+   "file": "meuble-heraldique-lion-leoparde.svg"
+  },
+  {
+   "charge": "lion",
+   "attitude": "statant",
+   "head": false,
+   "file": "lion-statant-regardant.svg"
+  },
+  {
+   "charge": "lion",
+   "attitude": "couchant",
+   "head": false,
+   "file": "lion-couchant-guardant.svg"
+  },
+  {
+   "charge": "lion",
+   "attitude": null,
+   "head": true,
+   "file": "meuble-heraldique-tete-lion.svg"
+  },
+  {
+   "charge": "leopard",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-leopard.svg"
+  },
+  {
+   "charge": "leopard",
+   "attitude": null,
+   "head": true,
+   "file": "meuble-heraldique-tete-leopard.svg"
+  },
+  {
+   "charge": "stag",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-cerf-passant.svg"
+  },
+  {
+   "charge": "stag",
+   "attitude": "passant",
+   "head": false,
+   "file": "meuble-heraldique-cerf-passant.svg"
+  },
+  {
+   "charge": "stag",
+   "attitude": "rampant",
+   "head": false,
+   "file": "meuble-heraldique-cerf-rampant.svg"
+  },
+  {
+   "charge": "stag",
+   "attitude": null,
+   "head": true,
+   "file": "stag-s-head-erased-heraldry.svg"
+  },
+  {
+   "charge": "wolf",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-loup-ravissant.svg"
+  },
+  {
+   "charge": "wolf",
+   "attitude": "rampant",
+   "head": false,
+   "file": "meuble-heraldique-loup-ravissant.svg"
+  },
+  {
+   "charge": "wolf",
+   "attitude": "passant",
+   "head": false,
+   "file": "meuble-heraldique-loup-passant.svg"
+  },
+  {
+   "charge": "bear",
+   "attitude": null,
+   "head": false,
+   "file": "bear-or-supporter.svg"
+  },
+  {
+   "charge": "bear",
+   "attitude": "rampant",
+   "head": false,
+   "file": "bear-or-supporter.svg"
+  },
+  {
+   "charge": "bear",
+   "attitude": "passant",
+   "head": false,
+   "file": "coa-illustration-elements-animal-bear-passant.svg"
+  },
+  {
+   "charge": "wolf",
+   "attitude": null,
+   "head": true,
+   "file": "meuble-rencontre-loup.svg"
+  },
+  {
+   "charge": "boar",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-boar-passant.svg"
+  },
+  {
+   "charge": "boar",
+   "attitude": "passant",
+   "head": false,
+   "file": "coa-illustration-elements-animal-boar-passant.svg"
+  },
+  {
+   "charge": "boar",
+   "attitude": "rampant",
+   "head": false,
+   "file": "coa-illustration-elements-animal-boar-rampant.svg"
+  },
+  {
+   "charge": "boar",
+   "attitude": null,
+   "head": true,
+   "file": "coa-illustration-elements-animal-boar-s-head-erased.svg"
+  },
+  {
+   "charge": "fox",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-fox-passant.svg"
+  },
+  {
+   "charge": "fox",
+   "attitude": "passant",
+   "head": false,
+   "file": "coa-illustration-elements-animal-fox-passant.svg"
+  },
+  {
+   "charge": "fox",
+   "attitude": "rampant",
+   "head": false,
+   "file": "meuble-heraldique-renard-flamboyant.svg"
+  },
+  {
+   "charge": "hound",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-greyhound-passant.svg"
+  },
+  {
+   "charge": "hound",
+   "attitude": "passant",
+   "head": false,
+   "file": "coa-illustration-elements-animal-greyhound-passant.svg"
+  },
+  {
+   "charge": "hound",
+   "attitude": "rampant",
+   "head": false,
+   "file": "meuble-heraldique-levrier-rampant.svg"
+  },
+  {
+   "charge": "talbot",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-talbot-passant.svg"
+  },
+  {
+   "charge": "sea-dog",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-sea-dog.svg"
+  },
+  {
+   "charge": "hound",
+   "attitude": "couchant",
+   "head": false,
+   "file": "meuble-heraldique-chien-braque-couche.svg"
+  },
+  {
+   "charge": "goat",
+   "attitude": "rampant",
+   "head": false,
+   "file": "meuble-heraldique-chevre-saillante.svg"
+  },
+  {
+   "charge": "goat",
+   "attitude": "passant",
+   "head": false,
+   "file": "coa-illustration-elements-animal-goat-passant.svg"
+  },
+  {
+   "charge": "goat",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-chevre-saillante.svg"
+  },
+  {
+   "charge": "goat",
+   "attitude": null,
+   "head": true,
+   "file": "meuble-heraldique-tete-de-bouc.svg"
+  },
+  {
+   "charge": "goat",
+   "attitude": "statant",
+   "head": false,
+   "file": "meuble-heraldique-chevre-arretee.svg"
+  },
+  {
+   "charge": "ram",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-ram-statant.svg"
+  },
+  {
+   "charge": "ram",
+   "attitude": "statant",
+   "head": false,
+   "file": "coa-illustration-elements-animal-ram-statant.svg"
+  },
+  {
+   "charge": "ram",
+   "attitude": null,
+   "head": true,
+   "file": "coa-illustration-elements-animal-ram-s-head-cabossed.svg"
+  },
+  {
+   "charge": "ram",
+   "attitude": "rampant",
+   "head": false,
+   "file": "ram-tenne.svg"
+  },
+  {
+   "charge": "sheep",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-ewe-passant.svg"
+  },
+  {
+   "charge": "sheep",
+   "attitude": "passant",
+   "head": false,
+   "file": "coa-illustration-elements-animal-ewe-passant.svg"
+  },
+  {
+   "charge": "bull",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-bull-passant.svg"
+  },
+  {
+   "charge": "bull",
+   "attitude": "passant",
+   "head": false,
+   "file": "coa-illustration-elements-animal-bull-passant.svg"
+  },
+  {
+   "charge": "bull",
+   "attitude": null,
+   "head": true,
+   "file": "coa-illustration-elements-animal-bull-s-head-caboshed.svg"
+  },
+  {
+   "charge": "horse",
+   "attitude": "passant",
+   "head": false,
+   "file": "meuble-heraldique-cheval-passant1.svg"
+  },
+  {
+   "charge": "horse",
+   "attitude": "rampant",
+   "head": false,
+   "file": "meuble-heraldique-cheval-cabre.svg"
+  },
+  {
+   "charge": "horse",
+   "attitude": "statant",
+   "head": false,
+   "file": "meuble-heraldique-cheval-arrete.svg"
+  },
+  {
+   "charge": "horse",
+   "attitude": null,
+   "head": true,
+   "file": "horse-head.svg"
+  },
+  {
+   "charge": "camelopard",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-cameleopard-statant.svg"
+  },
+  {
+   "charge": "warhorse",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-cheval-cabre.svg"
+  },
+  {
+   "charge": "unicorn",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-licorne-cabree.svg"
+  },
+  {
+   "charge": "horse",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-cheval-passant1.svg"
+  },
+  {
+   "charge": "unicorn",
+   "attitude": "rampant",
+   "head": false,
+   "file": "meuble-heraldique-licorne-cabree.svg"
+  },
+  {
+   "charge": "unicorn",
+   "attitude": null,
+   "head": true,
+   "file": "meuble-heraldique-tete-et-col-de-licorne.svg"
+  },
+  {
+   "charge": "griffin",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-griffin-1.svg"
+  },
+  {
+   "charge": "griffin",
+   "attitude": "rampant",
+   "head": false,
+   "file": "coa-illustration-elements-animal-griffin-1.svg"
+  },
+  {
+   "charge": "griffin",
+   "attitude": "passant",
+   "head": false,
+   "file": "coa-illustration-elements-animal-griffin-passant.svg"
+  },
+  {
+   "charge": "griffin",
+   "attitude": null,
+   "head": true,
+   "file": "griffin-s-head-erased-heraldry.svg"
+  },
+  {
+   "charge": "griffin",
+   "attitude": "couchant",
+   "head": false,
+   "file": "meuble-heraldique-griffon-couche.svg"
+  },
+  {
+   "charge": "enfield",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-enfield-statant.svg"
+  },
+  {
+   "charge": "eagle",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-eagle-displayed-with-wings-inverted.svg"
+  },
+  {
+   "charge": "falcon",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-falcoln-belled.svg"
+  },
+  {
+   "charge": "owl",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-owl-close-guardant.svg"
+  },
+  {
+   "charge": "heron",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-heron.svg"
+  },
+  {
+   "charge": "crane",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-grue.svg"
+  },
+  {
+   "charge": "martlet",
+   "attitude": null,
+   "head": false,
+   "file": "martlet-with-detailed-lines.svg"
+  },
+  {
+   "charge": "cock",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-coq.svg"
+  },
+  {
+   "charge": "swan",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-cygne-essorant.svg"
+  },
+  {
+   "charge": "raven",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-raven.svg"
+  },
+  {
+   "charge": "dove",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-colombe.svg"
+  },
+  {
+   "charge": "dragon",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-dragon-segreant.svg"
+  },
+  {
+   "charge": "phoenix",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-phoenix.svg"
+  },
+  {
+   "charge": "salamander",
+   "attitude": null,
+   "head": false,
+   "file": "salamander-crowned.svg"
+  },
+  {
+   "charge": "wyvern",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-wyvern-rampant.svg"
+  },
+  {
+   "charge": "cockatrice",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-cockatrice-displayed.svg"
+  },
+  {
+   "charge": "centaur",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-centaur-passant.svg"
+  },
+  {
+   "charge": "sea-horse",
+   "attitude": null,
+   "head": false,
+   "file": "heraldry-fish-205.svg"
+  },
+  {
+   "charge": "pegasus",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-pegasus-passant.svg"
+  },
+  {
+   "charge": "mermaid",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-mermaid.svg"
+  },
+  {
+   "charge": "manticore",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-manticore-passant-guardant.svg"
+  },
+  {
+   "charge": "harpy",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-harpy-rising-wings-displayed.svg"
+  },
+  {
+   "charge": "bee",
+   "attitude": null,
+   "head": false,
+   "file": "bee-heraldry.svg"
+  },
+  {
+   "charge": "fish",
+   "attitude": null,
+   "head": false,
+   "file": "heraldry-fish-004.svg"
+  },
+  {
+   "charge": "dolphin",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-dolphin-naiant.svg"
+  },
+  {
+   "charge": "serpent",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-serpent-nowed.svg"
+  },
+  {
+   "charge": "eel",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-eel.svg"
+  },
+  {
+   "charge": "escallop",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-animal-escallop.svg"
+  },
+  {
+   "charge": "thunderbolt",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-thunderbolt.svg"
+  },
+  {
+   "charge": "shining-spear",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-arms-lance.svg"
+  },
+  {
+   "charge": "sword",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-arms-sword-v2.svg"
+  },
+  {
+   "charge": "lance",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-arms-lance.svg"
+  },
+  {
+   "charge": "spear",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-arms-lance.svg"
+  },
+  {
+   "charge": "hammer",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-tool-hammer-v6.svg"
+  },
+  {
+   "charge": "battle-axe",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-battle-axe.svg"
+  },
+  {
+   "charge": "mace",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-arms-flanged-mace.svg"
+  },
+  {
+   "charge": "flail",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-fleau-d-armes.svg"
+  },
+  {
+   "charge": "morningstar",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-arms-spiked-mace.svg"
+  },
+  {
+   "charge": "hunting-horn",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-hunting-horn.svg"
+  },
+  {
+   "charge": "wheel",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-roue-a-8-rais.svg"
+  },
+  {
+   "charge": "horseshoe",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-horseshoe.svg"
+  },
+  {
+   "charge": "sickle",
+   "attitude": null,
+   "head": false,
+   "file": "peasants-party-electoral-symbol-the-sickle-1919-1926.svg"
+  },
+  {
+   "charge": "shovel",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-tool-spade-1.svg"
+  },
+  {
+   "charge": "key",
+   "attitude": null,
+   "head": false,
+   "file": "baby-doll-key.svg",
+   "rotate": -90
+  },
+  {
+   "charge": "scale",
+   "attitude": null,
+   "head": false,
+   "file": "heraldic-charge-scales-balanced.svg"
+  },
+  {
+   "charge": "maunch",
+   "attitude": null,
+   "head": false,
+   "file": "heraldic-maunch.svg"
+  },
+  {
+   "charge": "book",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-literacy-book-open.svg"
+  },
+  {
+   "charge": "helm",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-heaume-1.svg"
+  },
+  {
+   "charge": "crown",
+   "attitude": null,
+   "head": false,
+   "file": "crown-smpl.svg"
+  },
+  {
+   "charge": "cup",
+   "attitude": null,
+   "head": false,
+   "file": "coupe-antique.svg"
+  },
+  {
+   "charge": "gauntlet",
+   "attitude": null,
+   "head": false,
+   "file": "gauntlet-gray-flat.svg"
+  },
+  {
+   "charge": "hand",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-bodypart-hand-couped.svg"
+  },
+  {
+   "charge": "arm",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-bodypart-arm-couped-with-fingers-extended.svg"
+  },
+  {
+   "charge": "head",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-saracen-s-head-affronty-couped.svg"
+  },
+  {
+   "charge": "skull",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-bodypart-skull.svg"
+  },
+  {
+   "charge": "anchor",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-anchor.svg"
+  },
+  {
+   "charge": "lymphad",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-lymphad-with-oars-shipped.svg"
+  },
+  {
+   "charge": "bell",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-tool-bell.svg"
+  },
+  {
+   "charge": "mountain",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-montagnes-a-trois-coupeaux.svg"
+  },
+  {
+   "charge": "knight",
+   "attitude": null,
+   "head": false,
+   "file": "belarus-knight.svg"
+  },
+  {
+   "charge": "wild-man",
+   "attitude": null,
+   "head": false,
+   "file": "wildeman.svg"
+  },
+  {
+   "charge": "saint",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-saint-jean-baptiste.svg"
+  },
+  {
+   "charge": "angel",
+   "attitude": null,
+   "head": false,
+   "file": "ange-tenant.svg"
+  },
+  {
+   "charge": "crucifixion",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-crucifix.svg"
+  },
+  {
+   "charge": "shooting-star",
+   "attitude": null,
+   "head": false,
+   "file": "christmas-star-or-comet.svg"
+  },
+  {
+   "charge": "sun",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-planet-sun-in-his-splendor.svg"
+  },
+  {
+   "charge": "moon",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-planet-moon-in-her-plenitude.svg"
+  },
+  {
+   "charge": "rose",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-plant-rose.svg"
+  },
+  {
+   "charge": "thistle",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-plant-thistle.svg"
+  },
+  {
+   "charge": "tree",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-plant-oak-tree-fructed-and-eradicated.svg"
+  },
+  {
+   "charge": "acorn",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-plant-acorn-1.svg"
+  },
+  {
+   "charge": "apple",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-apple.svg"
+  },
+  {
+   "charge": "garb",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-plant-garb-of-wheat.svg"
+  },
+  {
+   "charge": "fleur-de-lis",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-fleur-de-lis.svg"
+  },
+  {
+   "charge": "castle",
+   "attitude": null,
+   "head": false,
+   "file": "simple-heraldic-castle.svg"
+  },
+  {
+   "charge": "tower",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-tour-donjonee-3-pieces.svg"
+  },
+  {
+   "charge": "church",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-building-church.svg"
+  },
+  {
+   "charge": "walls",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-tour-et-avant-mur.svg"
+  },
+  {
+   "charge": "merman",
+   "attitude": null,
+   "head": false,
+   "file": "coa-illustration-elements-merman-or-triton.svg"
+  },
+  {
+   "charge": "mary-and-child",
+   "attitude": null,
+   "head": false,
+   "file": "meuble-heraldique-marie-et-jesus.svg"
+  }
+ ]
+}

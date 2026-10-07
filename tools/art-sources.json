@@ -1,0 +1,492 @@
+{
+ "lion": {
+  "title": "Meuble héraldique Lion.svg"
+ },
+ "lion@rampant": {
+  "title": "Meuble héraldique Lion.svg"
+ },
+ "lion@passant": {
+  "title": "Meuble héraldique Lion léopardé.svg"
+ },
+ "lion@statant": {
+  "title": "Lion Statant Regardant.svg"
+ },
+ "lion@couchant": {
+  "title": "Lion Couchant Guardant.svg"
+ },
+ "lion@head": {
+  "title": "Meuble héraldique Tête (lion).svg"
+ },
+ "leopard": {
+  "title": "Meuble héraldique Léopard.svg"
+ },
+ "leopard@head": {
+  "title": "Meuble héraldique Tête (léopard).svg"
+ },
+ "stag": {
+  "title": "Meuble héraldique Cerf passant.svg"
+ },
+ "stag@passant": {
+  "title": "Meuble héraldique Cerf passant.svg"
+ },
+ "stag@rampant": {
+  "title": "Meuble héraldique Cerf rampant.svg"
+ },
+ "stag@head": {
+  "title": "Stag's head erased (heraldry).svg"
+ },
+ "wolf": {
+  "title": "Meuble héraldique Loup ravissant.svg"
+ },
+ "wolf@rampant": {
+  "title": "Meuble héraldique Loup ravissant.svg"
+ },
+ "wolf@passant": {
+  "title": "Meuble héraldique Loup passant.svg"
+ },
+ "bear": {
+  "title": "Bear or supporter.svg"
+ },
+ "bear@rampant": {
+  "title": "Bear or supporter.svg"
+ },
+ "bear@passant": {
+  "title": "Coa Illustration Elements Animal Bear Passant.svg"
+ },
+ "wolf@head": {
+  "title": "Meuble rencontre loup.svg"
+ },
+ "boar": {
+  "title": "Coa Illustration Elements Animal Boar Passant.svg"
+ },
+ "boar@passant": {
+  "title": "Coa Illustration Elements Animal Boar Passant.svg"
+ },
+ "boar@rampant": {
+  "title": "Coa Illustration Elements Animal Boar Rampant.svg"
+ },
+ "boar@head": {
+  "title": "Coa Illustration Elements Animal Boar's Head Erased.svg"
+ },
+ "fox": {
+  "title": "Coa Illustration Elements Animal Fox Passant.svg"
+ },
+ "fox@passant": {
+  "title": "Coa Illustration Elements Animal Fox Passant.svg"
+ },
+ "fox@rampant": {
+  "title": "Meuble héraldique Renard flamboyant.svg"
+ },
+ "hound": {
+  "title": "Coa Illustration Elements Animal Greyhound Passant.svg"
+ },
+ "hound@passant": {
+  "title": "Coa Illustration Elements Animal Greyhound Passant.svg"
+ },
+ "hound@rampant": {
+  "title": "Meuble héraldique Lévrier rampant.svg"
+ },
+ "talbot": {
+  "title": "Coa Illustration Elements Animal Talbot Passant.svg"
+ },
+ "sea-dog": {
+  "title": "Coa Illustration Elements Animal Sea Dog.svg"
+ },
+ "hound@couchant": {
+  "title": "Meuble héraldique Chien braque couché.svg"
+ },
+ "goat@rampant": {
+  "title": "Meuble heraldique chevre saillante.svg"
+ },
+ "goat@passant": {
+  "title": "Coa Illustration Elements Animal Goat Passant.svg"
+ },
+ "goat": {
+  "title": "Meuble heraldique chevre saillante.svg"
+ },
+ "goat@head": {
+  "title": "Meuble Héraldique Tête de Bouc.svg"
+ },
+ "goat@statant": {
+  "title": "Meuble héraldique chèvre arrêtée.svg"
+ },
+ "ram": {
+  "title": "Coa Illustration Elements Animal Ram Statant.svg"
+ },
+ "ram@statant": {
+  "title": "Coa Illustration Elements Animal Ram Statant.svg"
+ },
+ "ram@head": {
+  "title": "Coa Illustration Elements Animal Ram's Head Cabossed.svg"
+ },
+ "ram@rampant": {
+  "title": "Ram tenne.svg"
+ },
+ "sheep": {
+  "title": "Coa Illustration Elements Animal Ewe Passant.svg"
+ },
+ "sheep@passant": {
+  "title": "Coa Illustration Elements Animal Ewe Passant.svg"
+ },
+ "bull": {
+  "title": "Coa Illustration Elements Animal Bull Passant.svg"
+ },
+ "bull@passant": {
+  "title": "Coa Illustration Elements Animal Bull Passant.svg"
+ },
+ "bull@head": {
+  "title": "Coa Illustration Elements Animal Bull's Head Caboshed.svg"
+ },
+ "horse@passant": {
+  "title": "Meuble héraldique Cheval passant1.svg"
+ },
+ "horse@rampant": {
+  "title": "Meuble héraldique Cheval cabré.svg"
+ },
+ "horse@statant": {
+  "title": "Meuble héraldique Cheval arrêté.svg"
+ },
+ "horse@head": {
+  "title": "Horse head.svg"
+ },
+ "camelopard": {
+  "title": "Coa Illustration Elements Animal Cameleopard Statant.svg"
+ },
+ "warhorse": {
+  "title": "Meuble héraldique Cheval cabré.svg"
+ },
+ "unicorn": {
+  "title": "Meuble héraldique Licorne cabrée.svg"
+ },
+ "horse": {
+  "title": "Meuble héraldique Cheval passant1.svg"
+ },
+ "unicorn@rampant": {
+  "title": "Meuble héraldique Licorne cabrée.svg"
+ },
+ "unicorn@head": {
+  "title": "Meuble héraldique tête et col de licorne.svg"
+ },
+ "griffin": {
+  "title": "Coa Illustration Elements Animal Griffin 1.svg"
+ },
+ "griffin@rampant": {
+  "title": "Coa Illustration Elements Animal Griffin 1.svg"
+ },
+ "griffin@passant": {
+  "title": "Coa Illustration Elements Animal Griffin Passant.svg"
+ },
+ "griffin@head": {
+  "title": "Griffin's head erased (heraldry).svg"
+ },
+ "griffin@couchant": {
+  "title": "Meuble héraldique griffon couché.svg"
+ },
+ "enfield": {
+  "title": "Coa Illustration Elements Animal Enfield Statant.svg"
+ },
+ "eagle": {
+  "title": "Coa Illustration Elements Animal Eagle Displayed with Wings Inverted.svg"
+ },
+ "falcon": {
+  "title": "Coa Illustration Elements Animal Falcoln Belled.svg"
+ },
+ "owl": {
+  "title": "Coa Illustration Elements Animal Owl Close Guardant.svg"
+ },
+ "heron": {
+  "title": "Coa Illustration Elements Animal Heron.svg"
+ },
+ "crane": {
+  "title": "Meuble héraldique grue.svg"
+ },
+ "martlet": {
+  "title": "Martlet with detailed lines.svg"
+ },
+ "cock": {
+  "title": "Meuble coq.svg"
+ },
+ "swan": {
+  "title": "Meuble héraldique cygne-essorant.svg"
+ },
+ "raven": {
+  "title": "Coa Illustration Elements Animal Raven.svg"
+ },
+ "dove": {
+  "title": "Meuble héraldique Colombe.svg"
+ },
+ "dragon": {
+  "title": "Coa Illustration Elements Animal Dragon Segreant.svg"
+ },
+ "phoenix": {
+  "title": "Coa Illustration Elements Phoenix.svg"
+ },
+ "salamander": {
+  "title": "Salamander crowned.svg"
+ },
+ "wyvern": {
+  "title": "Coa Illustration Elements Animal Wyvern Rampant.svg"
+ },
+ "cockatrice": {
+  "title": "Coa Illustration Elements Animal Cockatrice Displayed.svg"
+ },
+ "centaur": {
+  "title": "Coa Illustration Elements Centaur Passant.svg"
+ },
+ "sea-horse": {
+  "title": "Heraldry Fish 205.svg"
+ },
+ "pegasus": {
+  "title": "Coa Illustration Elements Animal Pegasus Passant.svg"
+ },
+ "mermaid": {
+  "title": "Coa Illustration Elements Mermaid.svg"
+ },
+ "manticore": {
+  "title": "Coa Illustration Elements Manticore Passant Guardant.svg"
+ },
+ "harpy": {
+  "title": "Coa Illustration Elements Harpy Rising Wings Displayed.svg"
+ },
+ "bat": {
+  "title": "Meuble héraldique chauve-souris.svg"
+ },
+ "bee": {
+  "title": "Bee (heraldry).svg"
+ },
+ "fish": {
+  "title": "Heraldry Fish 004.svg"
+ },
+ "dolphin": {
+  "title": "Coa Illustration Elements Animal Dolphin Naiant.svg"
+ },
+ "crab": {
+  "title": "Crab in heraldry.svg"
+ },
+ "serpent": {
+  "title": "Coa Illustration Elements Animal Serpent Nowed.svg"
+ },
+ "spider": {
+  "title": "Spider tergiant.svg"
+ },
+ "fly": {
+  "title": "Fly heraldic 1.svg"
+ },
+ "scorpion": {
+  "title": "Scorpion2.svg"
+ },
+ "ant": {
+  "title": "Meuble héraldique Fourmis.svg"
+ },
+ "eel": {
+  "title": "Coa Illustration Elements Animal Eel.svg"
+ },
+ "escallop": {
+  "title": "Coa Illustration Elements Animal Escallop.svg"
+ },
+ "thorn-crown": {
+  "title": "Crown of thorns with 3 stems.svg"
+ },
+ "caduceus": {
+  "title": "Caduceus2.svg"
+ },
+ "thunderbolt": {
+  "title": "Coa Illustration Elements Thunderbolt.svg"
+ },
+ "shining-spear": {
+  "title": "Coa Illustration Elements Arms Lance.svg"
+ },
+ "sword": {
+  "title": "Coa Illustration Elements Arms Sword v2.svg"
+ },
+ "lance": {
+  "title": "Coa Illustration Elements Arms Lance.svg"
+ },
+ "spear": {
+  "title": "Coa Illustration Elements Arms Lance.svg"
+ },
+ "arrow": {
+  "title": "Coa Illustration Elements Arms Arrow.svg"
+ },
+ "warhammer": {
+  "title": "Coa Illustration Elements Arms War Hammer.svg"
+ },
+ "hammer": {
+  "title": "Coa Illustration Elements Tool Hammer v6.svg"
+ },
+ "battle-axe": {
+  "title": "Coa Illustration Elements Battle-Axe.svg"
+ },
+ "mace": {
+  "title": "Coa Illustration Elements Arms Flanged Mace.svg"
+ },
+ "flail": {
+  "title": "Meuble héraldique Fléau d'armes.svg"
+ },
+ "morningstar": {
+  "title": "Coa Illustration Elements Arms Spiked Mace.svg"
+ },
+ "anvil": {
+  "title": "Meuble héraldique Enclume.svg"
+ },
+ "hunting-horn": {
+  "title": "Coa Illustration Elements Hunting Horn.svg"
+ },
+ "wheel": {
+  "title": "Meuble héraldique Roue à 8 rais.svg"
+ },
+ "horseshoe": {
+  "title": "Coa Illustration Elements Horseshoe.svg"
+ },
+ "sickle": {
+  "title": "Peasants' Party electoral symbol - the Sickle (1919-1926).svg"
+ },
+ "shovel": {
+  "title": "Coa Illustration Elements Tool Spade 1.svg"
+ },
+ "fetterlock": {
+  "title": "Meuble héraldique cadenas.svg"
+ },
+ "key": {
+  "title": "Baby Doll key.svg",
+  "rotate": -90
+ },
+ "buckle": {
+  "title": "Héraldique meuble Fermail.svg"
+ },
+ "scale": {
+  "title": "Heraldic-Charge Scales-Balanced.svg"
+ },
+ "maunch": {
+  "title": "Heraldic maunch.svg"
+ },
+ "harp": {
+  "title": "Héraldique meuble harpe.svg"
+ },
+ "book": {
+  "title": "Coa Illustration Elements Literacy Book Open.svg"
+ },
+ "spur": {
+  "title": "Meuble héraldique Eperon.svg"
+ },
+ "helm": {
+  "title": "Meuble héraldique heaume 1.svg"
+ },
+ "crown": {
+  "title": "Crown smpl.svg"
+ },
+ "cup": {
+  "title": "Coupe antique.svg"
+ },
+ "gauntlet": {
+  "title": "Gauntlet Gray Flat.svg"
+ },
+ "hand": {
+  "title": "Coa Illustration Elements Bodypart Hand Couped.svg"
+ },
+ "arm": {
+  "title": "Coa Illustration Elements Bodypart Arm Couped with Fingers Extended.svg"
+ },
+ "head": {
+  "title": "Coa Illustration Elements Saracen's Head Affronty Couped.svg"
+ },
+ "skull": {
+  "title": "Coa Illustration Elements Bodypart Skull.svg"
+ },
+ "anchor": {
+  "title": "Coa Illustration Elements Anchor.svg"
+ },
+ "lymphad": {
+  "title": "Coa Illustration Elements Lymphad with Oars Shipped.svg"
+ },
+ "bell": {
+  "title": "Coa Illustration Elements Tool Bell.svg"
+ },
+ "mountain": {
+  "title": "Meuble héraldique Montagnes à trois coupeaux.svg"
+ },
+ "knight": {
+  "title": "Belarus knight.svg"
+ },
+ "wild-man": {
+  "title": "Wildeman.svg"
+ },
+ "medusa": {
+  "title": "Meuble héraldique gorgone.svg"
+ },
+ "saint": {
+  "title": "Meuble héraldique saint-jean-baptiste.svg"
+ },
+ "angel": {
+  "title": "Ange tenant.svg"
+ },
+ "crucifixion": {
+  "title": "Coa Illustration Crucifix.svg"
+ },
+ "paschal-lamb": {
+  "title": "Coa Illustration Elements Animal Lamb Paschal.svg"
+ },
+ "shooting-star": {
+  "title": "Christmas star or comet.svg"
+ },
+ "sun": {
+  "title": "Coa Illustration Elements Planet Sun in his Splendor.svg"
+ },
+ "moon": {
+  "title": "Coa Illustration Elements Planet Moon in her Plenitude.svg"
+ },
+ "palm-leaf": {
+  "title": "Héraldique meuble Palme.svg"
+ },
+ "rose": {
+  "title": "Coa Illustration Elements Plant Rose.svg"
+ },
+ "thistle": {
+  "title": "Coa Illustration Elements Plant Thistle.svg"
+ },
+ "tree": {
+  "title": "Coa Illustration Elements Plant Oak Tree Fructed and Eradicated.svg"
+ },
+ "acorn": {
+  "title": "Coa Illustration Elements Plant Acorn 1.svg"
+ },
+ "apple": {
+  "title": "Coa Illustration Apple.svg"
+ },
+ "garb": {
+  "title": "Coa Illustration Elements Plant Garb of Wheat.svg"
+ },
+ "fleur-de-lis": {
+  "title": "Meuble héraldique Fleur de lis.svg"
+ },
+ "castle": {
+  "title": "Simple heraldic castle.svg"
+ },
+ "tower": {
+  "title": "Meuble héraldique tour donjonée 3 pièces.svg"
+ },
+ "church": {
+  "title": "Coa Illustration Elements Building Church.svg"
+ },
+ "pavilion": {
+  "title": "Meuble Héraldique Tente.svg"
+ },
+ "walls": {
+  "title": "Meuble héraldique Tour et avant-mur.svg"
+ },
+ "bridge": {
+  "title": "Héraldique meuble pont trois arches.svg"
+ },
+ "gateworks": {
+  "title": "Meuble héraldique Herse-sarrasine.svg"
+ },
+ "lighthouse": {
+  "title": "Meuble héraldique Phare.svg"
+ },
+ "merman": {
+  "title": "Coa Illustration Elements Merman or Triton.svg"
+ },
+ "mary-and-child": {
+  "title": "Meuble héraldique Marie et Jésus.svg"
+ }
+}
