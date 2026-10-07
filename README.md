@@ -2,6 +2,12 @@
 
 A coat of arms generator for [Tokenizer 2](https://github.com/MrPrimate/tokenizer-2), inspired by *Pendragon*.
 
+![Sample coats of arms](docs/samples.png)
+
+Roll arms by the book's tables, or type a seed to get the same arms back, then change the shield, field, ordinary and charges from pictures.
+
+![The Coat of Arms window's Roll tab](docs/roll.png)
+
 See the [Coat of Arms documentation](https://docs.ddb.mrprimate.co.uk/docs/tokenizer-2/coat-of-arms) for how to use it.
 
 ## Installation

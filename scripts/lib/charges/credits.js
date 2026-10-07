@@ -14,7 +14,7 @@ import { artEntry, artFiles } from "./art.js";
 export const SHARE_ALIKE_PACK = "charges-by-sa";
 
 /** Every charge drawn in a coat (and its halves): { type, head, attitude }. */
-function drawnCharges(arms) {
+export function drawnCharges(arms) {
   if (!arms) return [];
   const out = [];
   const groups = [...(arms.charges ?? []), ...(arms.ordinary?.charges ?? [])];

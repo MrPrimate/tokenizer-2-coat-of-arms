@@ -24,9 +24,9 @@ const DIVISION_NAMES = {
 
 const ATTITUDE_NAMES = { rampant: "rampant", couchant: "couchant", statant: "statant", passant: "passant" };
 
-/** "a" or "an" before a word. */
+/** "a" or "an" before a word ("a unicorn": the u sounds as "you"). */
 function article(word) {
-  return (/^[aeiou]/i).test(word) ? "an" : "a";
+  return (/^[aeiou]/i).test(word) && !(/^u(ni|se|su)/i).test(word) ? "an" : "a";
 }
 
 function countWord(n, word) {

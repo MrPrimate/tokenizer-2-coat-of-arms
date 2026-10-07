@@ -7,22 +7,26 @@
 // `@napi-rs/canvas` installed (`npm i --no-save @napi-rs/canvas`), or set
 // NODE_PATH to one.
 //
-//   node plugins/coat-of-arms/tools/contact-sheet.mjs --out <dir> [charges|fields|random|styles|shields|all] [--seed n] [--count n]
+//   node plugins/coat-of-arms/tools/contact-sheet.mjs --out <dir> [charges|fields|random|styles|shields|samples|all] [--seed n] [--count n]
 //     [--ids lion,wolf] [--cell 96] [--style painted|outlined|silhouette|line] [--attitude rampant] [--name file]
 //
 // `styles` draws each charge (--ids) in every style, one row each;
 // `shields` draws each charge on a heater as the rulebook's plates do, a
-// tincture pair per shield. --ids narrows the charges sheet too. The charge
+// tincture pair per shield. `samples` draws the README's sample arms
+// (docs/samples.png, --out plugins/coat-of-arms/docs) on a clear
+// background, keeping to public domain and CC0 pictures so the image needs
+// no credits. --ids narrows the charges sheet too. The charge
 // pictures are read from art/ (with the Node canvas decoding the SVGs).
 import fs from "fs";
 import path from "path";
 import process from "process";
 import { createRequire } from "module";
-import { CHARGE_IDS, chargeLabel } from "../scripts/lib/charges/catalogue.js";
-import { hasPicture } from "../scripts/lib/charges/index.js";
+import { CHARGE_IDS, chargeInfo, chargeLabel } from "../scripts/lib/charges/catalogue.js";
+import { codePicture, hasPicture } from "../scripts/lib/charges/index.js";
 import { chargeImage, renderArms } from "../scripts/lib/render/render.js";
 import { generateArms } from "../scripts/lib/generate.js";
-import { loadArt } from "../scripts/lib/charges/art.js";
+import { artEntry, artFiles, loadArt } from "../scripts/lib/charges/art.js";
+import { drawnCharges } from "../scripts/lib/charges/credits.js";
 import { blazon } from "../scripts/lib/blazon.js";
 import { ORDINARIES, VARIATIONS, DIVISIONS } from "../scripts/lib/tables.js";
 
@@ -188,4 +192,40 @@ if (what === "shields") {
     ctx.drawImage(renderArms(arms, { size: cell, createCanvas, seed, chargeStyle: style }), x, y);
     label(ctx, chargeLabel(id), x, y + cell + 11, cell);
   }, fileName || "shields.png");
+}
+
+/** The README's sample arms: designed ones, and rolls by seed. */
+const SAMPLES = [
+  { arms: plain("azure", "lion", { tincture: "or", attitude: "rampant" }) },
+  { arms: plain("or", "eagle", { tincture: "sable" }), shape: "round" },
+  { roll: 39 },
+  { arms: plain("purpure", "unicorn", { tincture: "argent" }), shape: "lozenge" },
+  { arms: plain("sable", "griffin", { tincture: "or" }), shape: "square", damask: "lattice" },
+  { roll: 31 },
+  { roll: 33 },
+  { arms: { version: 1, field: { tincture: "argent", division: null, variation: { type: "barry", tinctures: ["argent", "azure"], count: 6, charge: null } }, ordinary: null, charges: [{ type: "castle", tincture: "gules", count: 1, head: false, attitude: null }], halves: null }, damask: "brocade" },
+];
+
+if (what === "samples") {
+  const cell = cellOption || 256;
+  const cols = 4;
+  const items = SAMPLES.map((s) => ({ ...s, arms: s.arms ?? generateArms({ seed: s.roll }).arms }));
+  for (const { arms } of items) {
+    for (const { type, head, attitude } of drawnCharges(arms)) {
+      if (codePicture(type)) continue;
+      const entry = artEntry(type, { head, attitude: attitude ?? chargeInfo(type).attitude ?? null });
+      const licence = artFiles(entry?.pack)[entry?.file]?.licence;
+      if (!["Public domain", "CC0"].includes(licence)) throw new Error(`${type} is drawn from ${entry?.file} (${licence}): pick arms with public domain or CC0 pictures`);
+    }
+    console.log(blazon(arms));
+  }
+  const canvas = createCanvas(cols * cell, Math.ceil(items.length / cols) * cell);
+  const ctx = canvas.getContext("2d");
+  items.forEach((item, i) => {
+    const img = renderArms(item.arms, { size: cell, createCanvas, seed: 7, shape: item.shape, damask: item.damask });
+    ctx.drawImage(img, (i % cols) * cell, Math.floor(i / cols) * cell);
+  });
+  const file = path.join(out, fileName || "samples.png");
+  fs.writeFileSync(file, canvas.toBuffer("image/png"));
+  console.log(`wrote ${file}`);
 }
