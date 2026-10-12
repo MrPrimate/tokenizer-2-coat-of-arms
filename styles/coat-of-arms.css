@@ -74,6 +74,25 @@
   margin: 0.5rem 0;
 }
 
+/* the window takes Foundry's background, so in the light theme its parts take the light palette;
+   unset (the dark theme, the token editor's panel) every colour falls back to the dark one */
+body.theme-light .tie-coa-app:not(.theme-dark),
+.tie-coa-app.theme-light {
+  --tie-coa-border: #bcc0cc;
+  --tie-coa-edge: #acb0be;
+  --tie-coa-panel: #eff1f5;
+  --tie-coa-surface: #e6e9ef;
+  --tie-coa-text: #4c4f69;
+  --tie-coa-muted: #5c5f77;
+  --tie-coa-hover-bg: #dce6fb;
+  --tie-coa-accent: #1e66f5;
+  --tie-coa-ok: #40a02b;
+  --tie-coa-ok-bg: #dcefd6;
+  --tie-coa-check-a: #acb0be;
+  --tie-coa-check-b: #9ca0b0;
+  --tie-coa-dot: #8c8fa1;
+}
+
 /* the window */
 .tie-coa-app .window-content {
   display: flex;
@@ -131,7 +150,7 @@
   display: flex;
   gap: 2px;
   flex: 0 0 auto;
-  border-bottom: 1px solid #313244;
+  border-bottom: 1px solid var(--tie-coa-border, #313244);
   margin-bottom: 0.4rem;
 }
 
@@ -142,20 +161,20 @@
   border-bottom: none;
   border-radius: 6px 6px 0 0;
   background: none;
-  color: #bac2de;
+  color: var(--tie-coa-muted, #bac2de);
   font-weight: 600;
   cursor: pointer;
 }
 
 .tie-coa-tabs__tab:hover {
-  background: #1e3a5f;
-  color: #cdd6f4;
+  background: var(--tie-coa-hover-bg, #1e3a5f);
+  color: var(--tie-coa-text, #cdd6f4);
 }
 
 .tie-coa-tabs__tab.is-active {
-  border-color: #313244;
-  background: #181825;
-  color: #cdd6f4;
+  border-color: var(--tie-coa-border, #313244);
+  background: var(--tie-coa-surface, #181825);
+  color: var(--tie-coa-text, #cdd6f4);
 }
 
 .tie-coa-pane {
@@ -192,10 +211,10 @@
   height: auto;
   margin: 0;
   padding: 4px;
-  border: 1px solid #313244;
+  border: 1px solid var(--tie-coa-border, #313244);
   border-radius: 6px;
-  background: #181825;
-  color: #bac2de;
+  background: var(--tie-coa-surface, #181825);
+  color: var(--tie-coa-muted, #bac2de);
   font-size: 11px;
   line-height: 1.15;
   cursor: pointer;
@@ -203,13 +222,13 @@
 }
 
 .tie-coa-tile:hover {
-  border-color: #89b4fa;
-  background: #1e3a5f;
+  border-color: var(--tie-coa-accent, #89b4fa);
+  background: var(--tie-coa-hover-bg, #1e3a5f);
 }
 
 .tie-coa-tile.is-selected {
-  border-color: #a6e3a1;
-  background: #1f3326;
+  border-color: var(--tie-coa-ok, #a6e3a1);
+  background: var(--tie-coa-ok-bg, #1f3326);
 }
 
 .tie-coa-tile[hidden] {
@@ -224,7 +243,7 @@
 .tie-coa-thumb {
   display: block;
   border-radius: 3px;
-  background: repeating-conic-gradient(#45475a 0% 25%, #3a3b4f 0% 50%) 50% / 12px 12px;
+  background: repeating-conic-gradient(var(--tie-coa-check-a, #45475a) 0% 25%, var(--tie-coa-check-b, #3a3b4f) 0% 50%) 50% / 12px 12px;
 }
 
 .tie-coa-swatches {
@@ -239,7 +258,7 @@
   height: 34px;
   padding: 0;
   margin: 0;
-  border: 2px solid #313244;
+  border: 2px solid var(--tie-coa-border, #313244);
   border-radius: 5px;
   background: none;
   overflow: hidden;
@@ -254,20 +273,20 @@
 }
 
 .tie-coa-swatch:hover {
-  border-color: #89b4fa;
+  border-color: var(--tie-coa-accent, #89b4fa);
 }
 
 .tie-coa-swatch.is-selected {
-  border-color: #a6e3a1;
-  box-shadow: 0 0 0 1px #a6e3a1;
+  border-color: var(--tie-coa-ok, #a6e3a1);
+  box-shadow: 0 0 0 1px var(--tie-coa-ok, #a6e3a1);
 }
 
 .tie-coa-group {
-  border: 1px solid #313244;
+  border: 1px solid var(--tie-coa-border, #313244);
   border-radius: 6px;
   padding: 0.4rem;
   margin-bottom: 0.5rem;
-  background: #11111b;
+  background: var(--tie-coa-panel, #11111b);
 }
 
 .tie-coa-group__head {
@@ -292,9 +311,9 @@
 
 .tie-coa-picker {
   margin: 0.3rem 0 0.5rem;
-  border: 1px solid #313244;
+  border: 1px solid var(--tie-coa-border, #313244);
   border-radius: 6px;
-  background: #11111b;
+  background: var(--tie-coa-panel, #11111b);
   padding: 0.3rem;
 }
 
@@ -313,7 +332,7 @@
 }
 
 .tie-coa-kind__heading {
-  color: #bac2de;
+  color: var(--tie-coa-muted, #bac2de);
   font-size: 11px;
   font-weight: 600;
   margin: 4px 0 2px;
@@ -331,7 +350,7 @@
   flex: 0 0 auto;
   padding: 0.2rem 0 0.35rem;
   margin-bottom: 0.4rem;
-  border-bottom: 1px solid #313244;
+  border-bottom: 1px solid var(--tie-coa-border, #313244);
 }
 
 .tie-coa-pinned .tie-coa-row {
@@ -384,7 +403,7 @@
 }
 
 .tie-coa-place-line > .tie-btn.is-selected {
-  border-color: #a6e3a1;
+  border-color: var(--tie-coa-ok, #a6e3a1);
 }
 
 .tie-coa-places {
@@ -392,9 +411,9 @@
   grid-template-columns: repeat(3, 22px);
   gap: 3px;
   padding: 3px;
-  border: 1px solid #313244;
+  border: 1px solid var(--tie-coa-border, #313244);
   border-radius: 6px 6px 50% 50% / 6px 6px 40% 40%;
-  background: #181825;
+  background: var(--tie-coa-surface, #181825);
 }
 
 .tie-coa-place {
@@ -402,9 +421,9 @@
   height: 20px;
   margin: 0;
   padding: 0;
-  border: 1px solid #45475a;
+  border: 1px solid var(--tie-coa-edge, #45475a);
   border-radius: 4px;
-  background: #11111b;
+  background: var(--tie-coa-panel, #11111b);
   cursor: pointer;
 }
 
@@ -415,20 +434,20 @@
   height: 6px;
   margin: auto;
   border-radius: 50%;
-  background: #7f849c;
+  background: var(--tie-coa-dot, #7f849c);
 }
 
 .tie-coa-place:hover {
-  border-color: #89b4fa;
+  border-color: var(--tie-coa-accent, #89b4fa);
 }
 
 .tie-coa-place.is-selected {
-  border-color: #a6e3a1;
-  background: #1f3326;
+  border-color: var(--tie-coa-ok, #a6e3a1);
+  background: var(--tie-coa-ok-bg, #1f3326);
 }
 
 .tie-coa-place.is-selected::after {
-  background: #a6e3a1;
+  background: var(--tie-coa-ok, #a6e3a1);
 }
 
 .tie-coa-slider {
@@ -481,7 +500,7 @@
   gap: 6px;
   margin: 0.25rem 0 0;
   padding-top: 0.5rem;
-  border-top: 1px solid #313244;
+  border-top: 1px solid var(--tie-coa-border, #313244);
 }
 
 .tie-coa-app .tie-coa-actions > .tie-btn {
