@@ -50,6 +50,14 @@ export function shareAlikeNotice(box, arms) {
   box.innerHTML = `<p><i class="fa-brands fa-creative-commons-sa"></i> ${escapeText(t("ShareAlikeNotice"))}</p><ul>${items}</ul>`;
 }
 
+/**
+ * Whether the user can save a token from Tokenizer 2's editor: a GM, a user
+ * who may upload, or a player whose saves Tokenizer 2 sends to the GM.
+ */
+function canSaveTokens() {
+  return game.user.isGM || game.user.can("FILES_UPLOAD") || !!globalThis.Tokenizer2?.saveNeedsApproval?.();
+}
+
 export class CoatOfArmsApp extends ApplicationV2 {
   static DEFAULT_OPTIONS = {
     id: "tokenizer-2-coat-of-arms-{id}",
@@ -187,8 +195,8 @@ export class CoatOfArmsApp extends ApplicationV2 {
         }
       }
     }
-    // the editor saves by uploading, which a plain player cannot do
-    if (this.actor && !this.host && globalThis.Tokenizer2?.openEditor && (game.user.isGM || game.user.can("FILES_UPLOAD"))) {
+    // the editor saves by uploading; a player who cannot upload sends the token to the GM instead (Tokenizer 2 API 1.6)
+    if (this.actor && !this.host && globalThis.Tokenizer2?.openEditor && canSaveTokens()) {
       actions.appendChild(this.button(t("OpenTokenizer"), "fa-solid fa-image-portrait", () => this.openInTokenizer(), !sheetHasArms(this.actor)));
     }
     actions.appendChild(this.button(t("Download"), "fa-solid fa-download", () => this.download()));
@@ -205,7 +213,6 @@ export class CoatOfArmsApp extends ApplicationV2 {
     content.replaceChildren(result);
   }
 
-  // eslint-disable-next-line class-methods-use-this
   button(label, icon, onClick, primary = false) {
     const btn = document.createElement("button");
     btn.type = "button";
@@ -231,6 +238,7 @@ export class CoatOfArmsApp extends ApplicationV2 {
       await applyArmsToActor(actor, flagData(this.coat));
       ui.notifications.info(t("SavedToSheet", { name: actor.name }));
     } catch (err) {
+      // eslint-disable-next-line no-console -- plugins have no access to the module's logger
       console.error("Tokenizer 2 Coat of Arms | save failed", err);
       ui.notifications.error(`${t("SaveFailed")} ${err.message ?? ""}`);
     }
