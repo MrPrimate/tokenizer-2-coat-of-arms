@@ -29,6 +29,10 @@ export function ensureArt() {
     },
     decode: (path) => new Promise((resolve, reject) => {
       const img = new Image();
+      // hosts such as The Forge serve module files from another origin (a
+      // CDN); without CORS the picture would taint every canvas it is
+      // drawn on, and reading its pixels back would throw
+      img.crossOrigin = "anonymous";
       img.decoding = "async";
       img.onload = () => resolve(img);
       img.onerror = () => reject(new Error(`${path} did not load`));
